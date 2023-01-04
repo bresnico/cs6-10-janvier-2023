@@ -1,0 +1,17 @@
+---
+title: "FOCUS - 6ème comité scientifique"
+date: "10 janvier 2023"
+author: "John Doe"
+format: revealjs
+---
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
