@@ -1,17 +1,70 @@
 ---
-title: "FOCUS - 6ème comité scientifique"
+title: Formation FOCUS
+from: markdown+emoji
+subtitle: Rencontre Comité scientifique (6)
 date: "10 janvier 2023"
-author: "John Doe"
-format: revealjs
+lang: fr
+title-slide-attributes: 
+  data-background-image: img/fusee.jpeg
+  data-background-size: absolute
+format:
+  revealjs:
+    incremental: true
+    transition: slide
+    background-transition: fade
+    footer: "Formation FOCUS 2022-2024 - HEP-VS et partenaires"
+    scrollable: true
 ---
 
-## Getting up
+## Ordre du jour {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
-- Turn off alarm
-- Get out of bed
+- Accueil et informations
+- Etat d'avancement
+  
+    - généralités
+    - session 1 : modalités en cours, bilan de satisfaction du comité scientifique
+    - session 2 : avancement des préparatifs, régulations éventuelles
+    - session 3 : rappel des modalités
+- Finances, administration : bilan et régulations éventuelles
+- Divers
 
 ---
 
-## Quarto
+## Accueil et informations {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+---
+
+## Etat d'avancement {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+
+::: {.panel-tabset}
+  
+### Généralités
+
+#### Délivrables du thème 4
+#### Supports aux participant·es
+
+### Session 1
+
+#### Modalités en cours
+#### Bilan de satisfaction du comité scientifique
+
+### Session 2
+
+#### Avancement des préparatifs
+#### Régulations éventuelles (feuille des absences. équivalences)
+
+### Session 3
+
+#### Agenda
+
+:::
+---
+
+## Finances, administration : bilan et régulations éventuelles {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+
+- Gestion des contrats [retard rattrapé]
+- Paiements
+
+## Divers {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+
+## {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.9"}
